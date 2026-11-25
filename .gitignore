@@ -1,0 +1,5 @@
+.venv/
+离线依赖/
+发布/
+__pycache__/
+*.py[cod]
